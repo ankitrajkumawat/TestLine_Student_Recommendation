@@ -27,7 +27,7 @@ Installation
 3. Place the dataset files (`Quiz_Endpoint Data.json`, `QuizSubmissionData.json`, `API Endpoint Data.json`) in the project directory.
 4. Run the script:
    ```
-   python student_recommendations.py
+   python main.py
    ```
 
 Approach Description
